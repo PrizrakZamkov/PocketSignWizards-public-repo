@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "579596109838",
+    "project_id": "wizards-50fa9",
+    "storage_bucket": "wizards-50fa9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579596109838:android:794de2fb9e84c3cb6b945f",
+        "android_client_info": {
+          "package_name": "com.Shine.Wizards"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCghpENuGHiPfQcTpEFs0ZGY_mJiAX3Qxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

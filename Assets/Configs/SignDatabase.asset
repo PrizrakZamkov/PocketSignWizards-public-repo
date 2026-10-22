@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63349677941857442a2fde0379a8153c, type: 3}
+  m_Name: SignDatabase
+  m_EditorClassIdentifier: Assembly-CSharp::SignDatabase
+  signs:
+  - id: 0
+    name: Fish
+    xmlFile: {fileID: 4900000, guid: 34a2863f7fb08bd4fa8d2fdd3a81cc3d, type: 3}
+    description: Fish
+  - id: 1
+    name: Infinity
+    xmlFile: {fileID: 4900000, guid: b207738531e18054a8bcd955d84a7843, type: 3}
+    description: Infinity
+  - id: 2
+    name: Balls
+    xmlFile: {fileID: 4900000, guid: 30ed32e1a26266d4d8dbe9b10d889582, type: 3}
+    description: Balls
+  - id: 3
+    name: Question
+    xmlFile: {fileID: 4900000, guid: 9d7205e43d5ca3542bb82a9311abcf9b, type: 3}
+    description: Question
+  - id: 4
+    name: Hole
+    xmlFile: {fileID: 4900000, guid: f2b06bbffcbc3e644993c047f39d186e, type: 3}
+    description: Hole
+  - id: 5
+    name: M
+    xmlFile: {fileID: 4900000, guid: 1aeed33dcbb2277478c5fce90415fdac, type: 3}
+    description: M
+  - id: 6
+    name: Omega
+    xmlFile: {fileID: 4900000, guid: 98845b66bcd2c45448cf8f30b3475546, type: 3}
+    description: Omega
+  - id: 7
+    name: Twin
+    xmlFile: {fileID: 4900000, guid: e1e3955576efef94aae1d2b430b947cd, type: 3}
+    description: Twin
+  - id: 8
+    name: Music3
+    xmlFile: {fileID: 4900000, guid: c9e8398cf6362be4bbdf7625f2963f49, type: 3}
+    description: Music3
+  - id: 9
+    name: Heart
+    xmlFile: {fileID: 4900000, guid: e1ffb687cae26b24abb84fd3a8dad631, type: 3}
+    description: Heart
+  - id: 10
+    name: Mail
+    xmlFile: {fileID: 4900000, guid: ab0b6d87e1d295d4295cd6c7af097713, type: 3}
+    description: Mail
+  - id: 11
+    name: InYan
+    xmlFile: {fileID: 4900000, guid: ec7f9c6ed0c8f724899a7a076fc65844, type: 3}
+    description: InYan
+  - id: 12
+    name: Star
+    xmlFile: {fileID: 4900000, guid: c1036de0bf1474f45b67041470eeb1e5, type: 3}
+    description: Star
+  - id: 13
+    name: Music1
+    xmlFile: {fileID: 4900000, guid: 2d8b3c36172b46248850de2052f0d1bd, type: 3}
+    description: Music1
+  - id: 14
+    name: Music2
+    xmlFile: {fileID: 4900000, guid: 62f474fac05d7f14e9144e6702163f32, type: 3}
+    description: Music2
+  - id: 15
+    name: Crown
+    xmlFile: {fileID: 4900000, guid: 06637ecde5dce45428aaf16587a2789a, type: 3}
+    description: Crown
+  - id: 16
+    name: Diamond
+    xmlFile: {fileID: 4900000, guid: 375d5133a478c1b4e9810f77cd8f430d, type: 3}
+    description: Diamond
+  - id: 17
+    name: Lightning
+    xmlFile: {fileID: 4900000, guid: de9894c9983dadb478832b0eae504d11, type: 3}
+    description: Lightning
+  - id: 18
+    name: Line
+    xmlFile: {fileID: 4900000, guid: 98b4c44851ad1274fbb1ce6b5d7d404c, type: 3}
+    description: Line
+  - id: 19
+    name: Circle
+    xmlFile: {fileID: 4900000, guid: 438df4a96c016554e9e7a282d55028fc, type: 3}
+    description: Circle

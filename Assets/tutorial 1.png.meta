@@ -1,0 +1,259 @@
+fileFormatVersion: 2
+guid: 535a1f6acc10867479ad023a6bc5f275
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1921337063021962082
+    second: tutorial_0
+  - first:
+      213: -8098022396540033732
+    second: tutorial_1
+  - first:
+      213: 1650465131718364636
+    second: tutorial_2
+  - first:
+      213: 2954596387962759104
+    second: tutorial_3
+  - first:
+      213: 7195781894802841362
+    second: tutorial_4
+  - first:
+      213: -5542560828392017848
+    second: tutorial_5
+  - first:
+      213: -4436643277966513164
+    second: tutorial_6
+  - first:
+      213: 377105189904756541
+    second: tutorial_7
+  - first:
+      213: -7186351079815243426
+    second: tutorial_8
+  - first:
+      213: -1684209528935229493
+    second: tutorial_9
+  - first:
+      213: -5840009047289845410
+    second: tutorial_10
+  - first:
+      213: -5682859150838906711
+    second: tutorial_11
+  - first:
+      213: 4933916042906453015
+    second: tutorial_12
+  - first:
+      213: -8592876150794050015
+    second: tutorial_13
+  - first:
+      213: -8378770322848437622
+    second: tutorial_14
+  - first:
+      213: -1036657011835829734
+    second: tutorial_15
+  - first:
+      213: -2834642119195198257
+    second: tutorial_16
+  - first:
+      213: 5557924415529837575
+    second: tutorial_17
+  - first:
+      213: -5255834020112415025
+    second: tutorial_18
+  - first:
+      213: 3730685408813659843
+    second: tutorial_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 315, y: 230, z: 0, w: 319}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tutorial 1_0
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 236
+        width: 865
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338f84f5ea4b20747b902e6939e8677e
+      internalID: -1420548679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tutorial 1_0: -1420548679
+      tutorial_0: -1921337063021962082
+      tutorial_1: -8098022396540033732
+      tutorial_10: -5840009047289845410
+      tutorial_11: -5682859150838906711
+      tutorial_12: 4933916042906453015
+      tutorial_13: -8592876150794050015
+      tutorial_14: -8378770322848437622
+      tutorial_15: -1036657011835829734
+      tutorial_16: -2834642119195198257
+      tutorial_17: 5557924415529837575
+      tutorial_18: -5255834020112415025
+      tutorial_19: 3730685408813659843
+      tutorial_2: 1650465131718364636
+      tutorial_3: 2954596387962759104
+      tutorial_4: 7195781894802841362
+      tutorial_5: -5542560828392017848
+      tutorial_6: -4436643277966513164
+      tutorial_7: 377105189904756541
+      tutorial_8: -7186351079815243426
+      tutorial_9: -1684209528935229493
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

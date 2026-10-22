@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af3d1d82139719b4785b3b6507ae5f37, type: 3}
+  m_Name: EnemyDB
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyDatabase
+  enemies:
+  - name: BigEnemy
+    prefab: {fileID: 1427086515434983695, guid: 850d24e8a83feaf46b13390e84e2d871,
+      type: 3}
+  - name: Catenemy
+    prefab: {fileID: 3019737566547765582, guid: 78504554afc36894b88b69a6519f6f7f,
+      type: 3}
+  - name: FastEnemy
+    prefab: {fileID: 8859182895096698982, guid: 414973759731fa149944a537de85711b,
+      type: 3}
+  - name: IllusionistEnemy
+    prefab: {fileID: 5904788149849145298, guid: f8f1d67c603dcd4438d78e06d4a174a9,
+      type: 3}
+  - name: InvisEnemy
+    prefab: {fileID: 94913828745640767, guid: e3602b0c92325644389ce4f0a06eff1f, type: 3}
+  - name: JumperEnemy
+    prefab: {fileID: 3149579093162931863, guid: fc553c1333764444abdf764df7a0fd50,
+      type: 3}
+  - name: KamikazeEnemy
+    prefab: {fileID: 5160954433710707563, guid: 8667a7cdd337c46438aa6a37e977b87a,
+      type: 3}
+  - name: MineEnemy
+    prefab: {fileID: 3875793313246248049, guid: c4ba566e933a27e4fa91a5789e5fc2ec,
+      type: 3}
+  - name: ShooterEnemy
+    prefab: {fileID: 7001525711163747261, guid: f3fa2b4154d09f64cb211a1be45ffa99,
+      type: 3}
+  - name: ShotgunEnemy
+    prefab: {fileID: 792759014747247039, guid: 3913d7f619ae34d469d352be6523ce34, type: 3}
+  - name: SlimeEnemy3
+    prefab: {fileID: 1875885010226025165, guid: c1032d40dfee88a479dbf2d4042bb2f3,
+      type: 3}
+  - name: SlowCatenemy
+    prefab: {fileID: 4459993893812860614, guid: b763efebfaba6ea43ba8fbf2a823ec0d,
+      type: 3}
+  - name: SniperEnemy
+    prefab: {fileID: 8507114522766234487, guid: 5b60af033e679934d9330ac38bc7d4f9,
+      type: 3}
+  - name: SpammerEnemy
+    prefab: {fileID: 1722902122516004499, guid: d797e1e8af2a4c14095e3824ba90f35c,
+      type: 3}
+  - name: TeleporterEnemy
+    prefab: {fileID: 7726805189155649685, guid: 722998fb49b77a34d81ed392a09591e0,
+      type: 3}
+  - name: TurretEnemy
+    prefab: {fileID: 8914082833435814269, guid: 7d4ec1a0c30d4cd4da2df708c774baf2,
+      type: 3}
+  - name: ZigzagEnemy
+    prefab: {fileID: 7293840041004093053, guid: f45fcba55d7f7b24f8113782940827b2,
+      type: 3}
